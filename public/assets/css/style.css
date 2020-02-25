@@ -1,7 +1,7 @@
 body {
     width: 99%;
     height: 900px;
-    background-color: #fc6;
+    background-color: #F9858B;
   }
   
   #top-bar {
@@ -57,6 +57,11 @@ body {
   .button-size {
     padding-bottom: 20px;
   }
+
+  button{
+    background-color: #761137;
+    color: #ED335F;
+  }
   
   #text-enter-button {
     margin-top: 10px;
@@ -64,5 +69,5 @@ body {
   }
   
   h1 {
-    color: #f30;
+    color: #761137;
   }  
